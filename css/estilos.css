@@ -1,0 +1,43 @@
+ 
+.header{
+     text-align: center;
+        color: blue;
+        font-family: "fantasy";
+       text-shadow: 10px 5px 5px black; 
+     }
+.h1{
+    text-align: center;
+    font-family: "fantasy";
+    text-shadow: 10px 5px 5px #01579B;
+     }
+.h2{
+    text-align: center;
+    font-family: "Cursive";
+    text-shadow: 10px -2px 5px pink;
+     }
+.container{
+    background: url(../img/huella1.jpg); 
+    text-align: center;
+    font-family: "fantasy";
+    text-shadow: 10px 5px 5px #01579B;
+     }
+.letra1{
+    color: deeppink;
+    font-family: fantasy;
+    text-shadow: 10px 5px 5px #01579B;
+     }
+.letra2{
+    color: deeppink;
+    font-family: cursive;
+    text-shadow: 10px 5px 5px #01579B;
+     }
+.letra3{
+    color: deeppink;
+    font-family: fantasy;
+    text-shadow: 10px 5px 5px #01579B;
+     }
+.letra4{
+    color: deeppink;
+    font-family: fantasy;
+    text-shadow: 10px 5px 5px #01579B;
+     }
